@@ -7,9 +7,7 @@
 		<body>
 			<?php 
 				echo '<h1><strong>Teste da Linguagem HTML (HyperText Markup Language)</strong></h1>' <br>;
-				echo '<strong>Autor: Iann Oliveira</strong><br>
-				<br>
-				<hr> ';
+				echo '<strong>Autor: Iann Oliveira</strong><br>';
 				echo 'Linkedin: linkedin.com/in/iann-oliveira-3106b11a4/<br>';
 				echo 'Site: github.com/iannoliver<br>';
 				echo 'Instagram: instagram.com/oli_iann/<br>';
