@@ -15,7 +15,7 @@
 				echo 'Instagram: instagram.com/oli_iann/<br>';
 				echo 'YouTube: youtube.com/channel/UCrFED4DHwF8EVJ5yR90OXbA<br>
 				<br> '
-				<img src="./download.jpg" alt="Rei">; 
+				<img src="download.jpg" alt="Rei">; 
 			?>
 		</body>
 	</html>
