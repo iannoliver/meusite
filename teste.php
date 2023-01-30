@@ -13,9 +13,7 @@
 				echo 'Linkedin: linkedin.com/in/iann-oliveira-3106b11a4/<br>';
 				echo 'Site: github.com/iannoliver<br>';
 				echo 'Instagram: instagram.com/oli_iann/<br>';
-				echo 'YouTube: youtube.com/channel/UCrFED4DHwF8EVJ5yR90OXbA<br>
-				<br> '
-				<img src="download.jpg" alt="Rei">; 
+				echo 'YouTube: youtube.com/channel/UCrFED4DHwF8EVJ5yR90OXbA<br>'; 
 			?>
 		</body>
 	</html>
